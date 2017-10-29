@@ -1,0 +1,47 @@
+body{
+    font-family: Arial,  sans-serif; 
+    font-size: 15px; 
+    font-weight: lighter;
+    background-color: yellow;
+}
+.name{
+    color: #7B68EE;
+    height: 25px;
+    font-size: 25px;
+    font-weight: 700;
+}
+.profession{
+    color: #7B68EE;
+    font-size: 20px;
+    font-weight: 600;
+}
+.transferal{
+    display:block;
+}
+.photo{
+    height: 260px;
+    width: 260px;
+    margin: 10px auto;
+    border-radius: 5px;
+}
+.titleAboutMe{
+    color: #7B68EE;
+    font-size: 20px;
+    width: 120px;
+    font-weight: 700;
+}
+.textAboutMe{
+    width: 500px;
+    height: 125px;
+}
+.titleEducation {
+    color: #7B68EE;
+    font-size: 20px;
+    width: 120px;
+    font-weight: 700;
+}
+
+.textEducation {
+    width: 500px;
+    height: 125px;
+}
