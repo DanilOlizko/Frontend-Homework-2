@@ -2,7 +2,6 @@ body{
     font-family: Arial,  sans-serif; 
     font-size: 15px; 
     font-weight: lighter;
-    background-color: yellow;
 }
 .name{
     color: #7B68EE;
@@ -24,6 +23,13 @@ body{
     margin: 10px auto;
     border-radius: 5px;
 }
+.aboutMe{
+    position: absolute;
+    width: 500px;
+    height: 150px;
+    left: 400px;
+    top: 63px;
+}
 .titleAboutMe{
     color: #7B68EE;
     font-size: 20px;
@@ -34,6 +40,15 @@ body{
     width: 500px;
     height: 125px;
 }
+.Education {
+    position: absolute;
+    width: 500px;
+    height: 150px;
+    left: 400px;
+    top: 250px;
+    
+}
+
 .titleEducation {
     color: #7B68EE;
     font-size: 20px;
@@ -42,6 +57,35 @@ body{
 }
 
 .textEducation {
+    width: 200px;
+    height: 80px;
+}
+.Skill{
+    color: #7B68EE;
+    font-size: 20px;
+    width: 120px;
+    font-weight: 700;
+}
+.Interest{
+    color: #7B68EE;
+    font-size: 20px;
+    width: 120px;
+    font-weight: 700; 
+}
+.reference{
+    position: absolute;
     width: 500px;
-    height: 125px;
+    height: 150px;
+    left: 400px;
+    top: 540px;
+}
+.titleReference{
+    color: #7B68EE;
+    font-size: 20px;
+    width: 120px;
+    font-weight: 700;
+}
+.textReference{
+    width: 200px;
+    height: 80px;
 }
